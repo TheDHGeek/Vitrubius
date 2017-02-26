@@ -1,15 +1,3 @@
-// variables
-
-// Variable entero
-int a =0;
-
-// Variable fraccionario
-float b =0;
-
-// Variable String
-String c = "Hola soy Roger";
-
-
 void setup(){
   size(900,900);
 }
